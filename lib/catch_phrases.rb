@@ -17,8 +17,7 @@ end
 
 def any_phrase(phrase)
   phrase = "Do A Barrel Roll!"
-  return phrase 
-  puts "catch phrase \n"
+  return phrase
 end
 
  
