@@ -7,4 +7,3 @@ def toadstool
   puts status
 end
 
-rspec spec/catch_phrases_spec.rb
