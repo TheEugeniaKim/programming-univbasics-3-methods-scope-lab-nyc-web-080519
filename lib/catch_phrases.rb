@@ -16,7 +16,7 @@ def link
 end
 
 def any_phrase(phrase)
-  phrase = "Do A Barrel Roll!"
+  return "Do A Barrel Roll!"
   puts "catch phrase \n"
 end
 
